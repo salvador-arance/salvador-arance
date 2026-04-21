@@ -41,8 +41,8 @@ Aquí encontrarás lo que voy construyendo mientras aprendo. Nada de portfolios 
 ## 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=salvador-arance&show_icons=true&theme=tokyonight&hide_border=true&locale=es" alt="Estadísticas de Salvador" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salvador-arance&layout=compact&theme=tokyonight&hide_border=true&locale=es" alt="Lenguajes más usados" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=salvador-arance&show_icons=true&theme=tokyonight&hide_border=true&locale=es&cache_seconds=1800" alt="Estadísticas de Salvador" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salvador-arance&layout=compact&theme=tokyonight&hide_border=true&locale=es&cache_seconds=1800" alt="Lenguajes más usados" height="165"/>
 </p>
 
 ---
