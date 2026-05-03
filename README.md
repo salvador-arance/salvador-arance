@@ -1,4 +1,4 @@
-# Hola, soy Salvador Arance 👋
+# Hola, soy Salva👋
 
 ### Estudiante de DAM.
 
@@ -29,21 +29,10 @@ Aquí encontrarás lo que voy construyendo mientras aprendo. Nada de portfolios 
 
 ## 👤 Sobre mí
 
-- 🎓 1º de DAM en CI Cuatrovientos · antes cursé SMR en el mismo centro
-- 🔧 Me tira más el **backend**: lógica de negocio, bases de datos, que las cosas funcionen por dentro
-- 🌐 También controlo HTML y CSS
+- 🎓 1º de DAM en CI Cuatrovientos
 - 🌱 Construyendo mis primeros proyectos propios — pronto habrá más aquí
 - 🤝 Abierto a colaborar en proyectos donde pueda aprender y aportar a la vez
 - 📍 Pamplona, Navarra
-
----
-
-## 📊 Estadísticas de GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=salvador-arance&show_icons=true&theme=tokyonight&hide_border=true&locale=es&cache_seconds=1800" alt="Estadísticas de Salvador" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salvador-arance&layout=compact&theme=tokyonight&hide_border=true&locale=es&cache_seconds=1800" alt="Lenguajes más usados" height="165"/>
-</p>
 
 ---
 
