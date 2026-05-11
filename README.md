@@ -5,7 +5,7 @@
 Estudio **Desarrollo de Aplicaciones Multiplataforma** en [Cuatrovientos](https://cuatrovientos.org/), Pamplona.
 Termino en junio de 2027 — hasta entonces, cada proyecto es un paso más hacia el día en que el código que escriba resuelva problemas reales.
 
-Aquí encontrarás lo que voy construyendo mientras aprendo. Nada de portfolios de escaparate: esto es trabajo en progreso, y eso es exactamente el punto.
+Aquí encontrarás lo que voy construyendo mientras aprendo.
 
 ---
 
@@ -29,9 +29,9 @@ Aquí encontrarás lo que voy construyendo mientras aprendo. Nada de portfolios 
 
 ## 👤 Sobre mí
 
-- 🎓 1º de DAM en CI Cuatrovientos
-- 🌱 Construyendo mis primeros proyectos propios — pronto habrá más aquí
-- 🤝 Abierto a colaborar en proyectos donde pueda aprender y aportar a la vez
+- 1º de DAM en CI Cuatrovientos
+- Construyendo mis primeros proyectos propios — pronto habrá más aquí
+- Abierto a colaborar en proyectos donde pueda aprender y aportar a la vez
 - 📍 Pamplona, Navarra
 
 ---
@@ -43,7 +43,3 @@ Aquí encontrarás lo que voy construyendo mientras aprendo. Nada de portfolios 
 📧 **salvaarancegallego@gmail.com**
 
 ---
-
-<p align="center">
-  <i>En construcción permanente — como todo buen proyecto.</i>
-</p>
